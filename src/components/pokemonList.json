@@ -1,0 +1,26 @@
+[ 
+    {
+        "id":"0",
+        "name":"Pikachu",
+        "image":"./image/pikachu.png",
+        "introduction":"The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button"
+    },
+    {
+        "id":"1",
+        "name":"Bulbasaur",
+        "image":"./image/bulbasaur.jpg",
+        "introduction":"The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button"
+    },
+    {
+        "id":"2",        
+        "name":"Blastoise",
+        "image":"./image/blastoise.jpg",
+        "introduction":"The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button"
+    },
+    {
+        "id":"3",
+        "name":"Charmander",
+        "image":"./image/charmander.jpg",
+        "introduction":"The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button"
+    }
+]
